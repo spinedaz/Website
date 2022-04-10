@@ -2,7 +2,7 @@
 
 Hello all!
 
-I am Sara, a forestry engineer from the National University of Colombia.
+I am Sara, a forestry engineer from the National University of Colombia, currently enrolled in the the erasmus mundus master's program <a href="https://sites.uef.fi/europeanforestry/">European Forestry</a>.
 
 <!-- wp:paragraph -->
 <p>I worked for a few years as an environmental consultant in my country Colombia, where I discovered my passion for fragmentation and landscape connectivity. Furthermore, in the <a href="https://www.udl.cat/ca/es/">University of Lleida</a>, the school I chose for the second year of my master, I learned about modeling forests and most important I had my first encounters with R.</p>
@@ -20,9 +20,9 @@ Visit these links for navigation in this webpage
 
 - [<font color="blue">The birds I've seen</font>](./Birds_link.md)
 
-<!-- - [image grid](./image-grid.md) -->
+- [image grid](./image-grid.md)
 
-- [trial](./whatever.Rmd) 
+<!-- - [trial](./whatever.Rmd) -->
 
 - [<font color="blue">Landscape ecology resources</font>](./Landscape_ecology.md)
 

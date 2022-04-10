@@ -2,13 +2,15 @@
 
 ### Europe
 
-![Garza del Ebro](./Images/DSCN5843.JPG)
+<!-- ![Garza del Ebro](./Images/DSCN5843.JPG)-->
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|![](./Images/DSCN5287.JPG) |  ![](./Images/DSCN5330.JPG)|![](./Images/DSCN5425.JPG)|
-|![](./Images/DSCN5450.JPG)  |  ![](./Images/DSCN5822.JPG)|![](./Images/DSCN5832.JPG)|
-|![](./Images/DSCN5912.JPG)  |  ![](./Images/DSCN0315.JPG)|![](./Images/DSCN0315.JPG)|
+|![w](./Images/DSCN5287.JPG) |  ![d](./Images/DSCN5330.JPG)|![a](./Images/DSCN5425.JPG)|
+|![f](./Images/DSCN5450.JPG)  |  ![h](./Images/DSCN5822.JPG)|![y](./Images/DSCN5832.JPG)|
+|![b](./Images/DSCN5912.JPG)  |  ![f](./Images/DSCN0315.JPG)|![s](./Images/DSCN0315.JPG)|
+
+
 ### Colombia
 
 *Anthracothorax nigricollis*
