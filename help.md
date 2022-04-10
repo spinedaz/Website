@@ -1,2 +1,2 @@
 = Hi
-= genkidesuka?
+= ananot?
