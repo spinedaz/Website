@@ -12,6 +12,8 @@ I am Sara, a forestry engineer from the National University of Colombia.
 <p>I created this webpage with the idea of sharing the process and struggles with my thesis. Although there are a lot of resources out there, I would like to share my own tutorials and tips about landscape connectivity that I've been discovering through out the process of my thesis and my starting career as a researcher.</p>
 <!-- /wp:paragraph -->
 
+---
+
 ### Navigation
 
 Visit these links for navigation in this webpage

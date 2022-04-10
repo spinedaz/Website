@@ -1,5 +1,5 @@
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src= (./Images/DSCN5843.JPG)>  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=(./Images/DSCN5843.JPG)>|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=(./Images/DSCN5843.JPG)>|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=(./Images/DSCN5843.JPG)>  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=(./Images/DSCN5843.JPG)>|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=(./Images/DSCN5843.JPG)>|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=(./Images/DSCN5843.JPG)>  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=(./Images/DSCN5843.JPG)>|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src=(./Images/DSCN5843.JPG)>|
+|![Thraupis episcopus](./Images/DSCN0315.JPG) |  ![Thraupis episcopus](./Images/DSCN0315.JPG)|![Thraupis episcopus](./Images/DSCN0315.JPG)|
+|![Thraupis episcopus](./Images/DSCN0315.JPG)  |  ![Thraupis episcopus](./Images/DSCN0315.JPG)|![Thraupis episcopus](./Images/DSCN0315.JPG)|
+|![Thraupis episcopus](./Images/DSCN0315.JPG)  |  ![Thraupis episcopus](./Images/DSCN0315.JPG)|![Thraupis episcopus](./Images/DSCN0315.JPG)|
