@@ -2,9 +2,11 @@
 
 ### My webpage
 
-Aquí hay un enlace
+Visit these links for navigation in this webpage
 
 [The birds I've seen](./Birds_link.md)
+
+[Trial](./Trial.md)
 
 You can use the [editor on GitHub](https://github.com/spinedaz/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
