@@ -1,5 +1,14 @@
 <center>Sara Pineda Zapata</center>
 
+[Foto](./Images/DSC03902.JPG)
+
+img[src$="#Foto"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+
 Hello all!
 
 I am Sara, a forestry engineer from the National University of Colombia, currently enrolled in the the erasmus mundus master's program <a href="https://sites.uef.fi/europeanforestry/">European Forestry</a>.
