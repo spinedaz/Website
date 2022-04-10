@@ -4,10 +4,13 @@ Hello all!
 
 I am Sara, a forestry engineer from the National University of Colombia.
 
+<!-- wp:paragraph -->
+<p>I worked for a few years as an environmental consultant in my country Colombia, where I discovered my passion for fragmentation and landscape connectivity. Furthermore, in the <a href="https://www.udl.cat/ca/es/">University of Lleida</a>, the school I chose for the second year of my master, I learned about modeling forests and most important I had my first encounters with R.</p>
+<!-- /wp:paragraph -->
 
-I worked for a few years as an environmental consultant in my country Colombia, where I discovered my passion for fragmentation and landscape connectivity. Furthermore, in the [University of Lleida](https://www.udl.cat/ca/es/), the school I chose for the second year of my master, I learned about modeling forests and most important I had my first encounters with R.
-
-I created this webpage with the idea of sharing the process and struggles with my thesis. Although there are a lot of resources out there, I would like to share my own tutorials and tips about landscape connectivity that I've been discovering through out the process of my thesis and my starting career as a researcher.
+<!-- wp:paragraph -->
+<p>I created this webpage with the idea of sharing the process and struggles with my thesis. Although there are a lot of resources out there, I would like to share my own tutorials and tips about landscape connectivity that I've been discovering through out the process of my thesis and my starting career as a researcher.</p>
+<!-- /wp:paragraph -->
 
 ### Navigation
 

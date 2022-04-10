@@ -6,4 +6,4 @@
 
 ### Colombia
 
-![Espatulilla común](./Images/DSCN181.JPG)
+![Espatulilla comun](./Images/DSCN0181.JPG)
