@@ -1,13 +1,5 @@
 <center>Sara Pineda Zapata</center>
 
-[Foto](./Images/DSC03902.JPG)
-
-img[src$="#Foto"] {
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 50%;
-}
 
 Hello all!
 
@@ -20,6 +12,8 @@ I am Sara, a forestry engineer from the National University of Colombia, current
 <!-- wp:paragraph -->
 <p>I created this webpage with the idea of sharing the process and struggles with my thesis. Although there are a lot of resources out there, I would like to share my own tutorials and tips about landscape connectivity that I've been discovering through out the process of my thesis and my starting career as a researcher.</p>
 <!-- /wp:paragraph -->
+
+<p>There is also a space in this wepage for birds. Birdwatching is one of my favorite hobbies and I would love to share the birds I've seen during my years birdwatching in Colombia and some of the nice pictures I've taken in Europe.</p>
 
 ---
 
