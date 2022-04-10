@@ -7,3 +7,7 @@
 ### Colombia
 
 ![Espatulilla comun](./Images/DSCN0181.JPG)
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Thraupis episcopus](./Images/DSCN0315.JPG)  |  ![Piranga rubra](./Images/DSCN0884.JPG)
