@@ -25,7 +25,7 @@ Visit these links for navigation in this webpage
 
 - [image grid](./image-grid.md)
 
-<!-- - [trial](./whatever.Rmd) -->
+- [trial](./whatever.Rmd)
 
 - [<font color="blue">Landscape ecology resources</font>](./Landscape_ecology.md)
 
