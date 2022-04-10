@@ -4,7 +4,7 @@
 
 Visit these links for navigation in this webpage
 
-[<font color="red">The birds I've seen</font>](./Birds_link.md)
+[<font color="blue">The birds I've seen</font>](./Birds_link.md)
 
 [image grid](.image-grid.md) 
 
