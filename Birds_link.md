@@ -6,13 +6,13 @@
 
 ### Colombia
 
-*Todirostrum cinereum*
-![Espatulilla comun](./Images/DSCN0181.JPG)
+*Anthracothorax nigricollis*
+![Mango pechinegro](./Images/DSCN0304.JPG)
 
-*Thraupis episcopus*             |  *Piranga rubra*
+*Thraupis episcopus*             |  *Amazilia tzacatl*
 :-------------------------:|:-------------------------:
-![Thraupis episcopus](./Images/DSCN0315.JPG)  |  ![Piranga rubra](./Images/DSCN0884.JPG)
+![Thraupis episcopus](./Images/DSCN0315.JPG)  |  ![Colirufo](./Images/DSCN0108.JPG)
 
-*Thraupis episcopus*             |  *Piranga rubra*  |  *Piranga rubra* 
+*Todirostrum cinereum*             |  *Piranga rubra*  |  *Coereba flaveola* 
 :-------------------------:|:-------------------------:|:-------------------------:
-![Thraupis episcopus](./Images/DSCN0315.JPG)  |  ![Piranga rubra](./Images/DSCN0884.JPG) | ![Piranga rubra](./Images/DSCN0884.JPG)
+![Espatulilla común](./Images/DSCN0181.JPG)  |  ![Piranga rubra](./Images/DSCN0884.JPG) | ![Mielero común](./Images/DSCN1406.JPG)
