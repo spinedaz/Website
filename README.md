@@ -18,11 +18,19 @@ I am Sara, a forestry engineer from the National University of Colombia.
 
 Visit these links for navigation in this webpage
 
-[<font color="blue">The birds I've seen</font>](./Birds_link.md)
+- [<font color="blue">The birds I've seen</font>](./Birds_link.md)
 
-[image grid](.image-grid.md) 
+- [image grid](.image-grid.md) 
 
-[trial](.whatever.Rmd) 
+- [trial](.whatever.Rmd) 
+
+---
+
+If you want to contact me, here is my linkedin profile and my email:
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sara-pineda-zapata/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sapine@gmail.com)
 
 You can use the [editor on GitHub](https://github.com/spinedaz/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
