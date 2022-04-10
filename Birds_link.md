@@ -15,4 +15,4 @@
 
 *Todirostrum cinereum*             |  *Piranga rubra*  |  *Coereba flaveola* 
 :-------------------------:|:-------------------------:|:-------------------------:
-![Espatulilla común](./Images/DSCN0181.JPG)  |  ![Piranga rubra](./Images/DSCN0884.JPG) | ![Mielero común](./Images/DSCN1406.JPG)
+![Espatulilla común](./Images/DSCN0181.JPG)  |  ![Piranga rubra](./Images/DSCN0884.JPG) | ![Mielero comun](./Images/DSCN1406.JPG)
