@@ -20,9 +20,11 @@ Visit these links for navigation in this webpage
 
 - [<font color="blue">The birds I've seen</font>](./Birds_link.md)
 
-- [image grid](.image-grid.md) 
+[image grid](./image-grid.md) 
 
-- [trial](.whatever.Rmd) 
+<!-- - - [trial](./whatever.Rmd) -->
+
+- [<font color="blue">Landscape ecology resources</font>](./Landscape_ecology.md)
 
 ---
 
@@ -32,6 +34,7 @@ If you want to contact me, here is my linkedin profile and my email:
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sapine@gmail.com)
 
+<!-- 
 You can use the [editor on GitHub](https://github.com/spinedaz/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -66,4 +69,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
