@@ -17,21 +17,21 @@
 
 <p>There is also a space in this wepage for birds. Birdwatching is one of my favorite hobbies and I would love to share the birds I've seen during my years birdwatching in Colombia and some of the nice pictures I've taken in Europe.</p>
 
----
+...
 
 ### Navigation
 
 Visit these links for navigation in this webpage
 
-- [<font color="blue">The birds I've seen</font>](./Birds_link.md)
+- [The birds I've seen](./Birds_link.md)
 
 - [image grid](./image-grid.md)
 
 <!-- - [trial](./whatever.Rmd) -->
 
-- [<font color="blue">Landscape ecology resources</font>](./Landscape_ecology.md)
+- [Landscape ecology resources](./Landscape_ecology.md)
 
----
+...
 
 If you want to contact me, here is my linkedin profile and my email:
 
