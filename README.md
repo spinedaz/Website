@@ -1,10 +1,8 @@
 
-
-<center><img src=./Images/PROF.png width="" height="200"/><center>
-
+![pic](/Images/PROF.png =250x)
 ---
 
-**Hello all!**
+Hello all!
 
 <!-- wp:paragraph -->
 <p>I am Sara, a forestry engineer from the National University of Colombia, currently enrolled in the erasmus mundus master's program <a href="https://sites.uef.fi/europeanforestry/">European Forestry</a>.

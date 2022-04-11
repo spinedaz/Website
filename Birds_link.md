@@ -2,7 +2,7 @@
 
 ### Europe
 
-[Garza del Ebro](./Images/DSCN5843.JPG)
+![Garza del Ebro](./Images/DSCN5843.JPG)
 
 ### Colombia
 
