@@ -1,5 +1,12 @@
 
-![prof_pic](/Images/PROF.png)
+<style>
+.imgContainer {
+  max-width: 200px;
+}
+</style>
+
+<img class="imgContainer" src="./Images/PROF.png">
+
 ---
 
 **Hello all!**
