@@ -1,5 +1,5 @@
 
-![pic](/Images/PROF.png =250x)
+![pic](/Images/PROF.png)
 ---
 
 Hello all!
