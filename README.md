@@ -1,7 +1,7 @@
 
 <style>
 .imgContainer {
-  max-width: 100px;
+  max-width: 50px;
 }
 </style>
 
