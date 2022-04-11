@@ -1,9 +1,13 @@
-<center>Sara Pineda Zapata</center>
 
 
-Hello all!
+<center><img src=./Images/PROF.png width="" height="200"/><center>
 
-I am Sara, a forestry engineer from the National University of Colombia, currently enrolled in the the erasmus mundus master's program <a href="https://sites.uef.fi/europeanforestry/">European Forestry</a>.
+---
+
+**Hello all!**
+
+<!-- wp:paragraph -->
+<p>I am Sara, a forestry engineer from the National University of Colombia, currently enrolled in the erasmus mundus master's program <a href="https://sites.uef.fi/europeanforestry/">European Forestry</a>.
 
 <!-- wp:paragraph -->
 <p>I worked for a few years as an environmental consultant in my country Colombia, where I discovered my passion for fragmentation and landscape connectivity. Furthermore, in the <a href="https://www.udl.cat/ca/es/">University of Lleida</a>, the school I chose for the second year of my master, I learned about modeling forests and most important I had my first encounters with R.</p>
