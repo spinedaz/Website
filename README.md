@@ -5,17 +5,17 @@
 **Hello all!**
 
 <!-- wp:paragraph -->
-<p>I am Sara, a forestry engineer from the National University of Colombia, currently enrolled in the erasmus mundus master's program <a href="https://sites.uef.fi/europeanforestry/">European Forestry</a>.
+I am Sara, a forestry engineer from the National University of Colombia, currently enrolled in the erasmus mundus master's program <a href="https://sites.uef.fi/europeanforestry/">European Forestry</a>.
 
 <!-- wp:paragraph -->
-<p>I worked for a few years as an environmental consultant in my country Colombia, where I discovered my passion for fragmentation and landscape connectivity. Furthermore, in the <a href="https://www.udl.cat/ca/es/">University of Lleida</a>, the school I chose for the second year of my master, I learned about modeling forests and most important I had my first encounters with R.</p>
+I worked for a few years as an environmental consultant in my country Colombia, where I discovered my passion for fragmentation and landscape connectivity. Furthermore, in the <a href="https://www.udl.cat/ca/es/">University of Lleida</a>, the school I chose for the second year of my master, I learned about modeling forests and most important I had my first encounters with R.
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I created this webpage with the idea of sharing the process and struggles with my thesis. Although there are a lot of resources out there, I would like to share my own tutorials and tips about landscape connectivity that I've been discovering through out the process of my thesis and my starting career as a researcher.</p>
+I created this webpage with the idea of sharing the process and struggles with my thesis. Although there are a lot of resources out there, I would like to share my own tutorials and tips about landscape connectivity that I've been discovering through out the process of my thesis and my starting career as a researcher.
 <!-- /wp:paragraph -->
 
-<p>There is also a space in this wepage for birds. Birdwatching is one of my favorite hobbies and I would love to share the birds I've seen during my years birdwatching in Colombia and some of the nice pictures I've taken in Europe.</p>
+There is also a space in this wepage for birds. Birdwatching is one of my favorite hobbies and I would love to share the birds I've seen during my years birdwatching in Colombia and some of the nice pictures I've taken in Europe.
 
 ---
 
