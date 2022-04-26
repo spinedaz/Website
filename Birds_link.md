@@ -4,9 +4,9 @@
 
 #### Finland 
 
-*Woodpecker*             |  *_*
+*Woodpecker*             |  *Bird*
 :-------------------------:|:-------------------------:
-![Paloma](./Images/DSCN5450.JPG)  |  ![Paser](./Images/DSCN5425.JPG)
+![woodp](./Images/DSCN5450.JPG)  |  ![bird](./Images/DSCN5425.JPG)
 
 #### España
 
