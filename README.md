@@ -32,7 +32,6 @@ Visit these links for navigation in this webpage
 
 - [The birds I've seen](./Birds_link.md)
 
-- [image grid](./image-grid.md)
 
 <!-- - [trial](./whatever.Rmd) -->
 
