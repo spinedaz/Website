@@ -4,15 +4,17 @@
 
 #### Finland 
 
-*Woodpecker*             |  *Bird*
+*Dendrocopos major*             |  *Fringilla coelebs*
 :-------------------------:|:-------------------------:
 ![woodp](./Images/DSCN5450.JPG)  |  ![bird](./Images/DSCN5425.JPG)
 
-#### Espana
+#### Spain
+
+*Ardea alba* 
 
 ![Garza del Ebro](./Images/DSCN5843.JPG)
 
-*Paloma*             |  *Paser domesticus*
+*Columba palumbus*             |  *Paser domesticus*
 :-------------------------:|:-------------------------:
 ![Paloma](./Images/DSCN5939.JPG)  |  ![Paser](./Images/DSCN5951.JPG)
 
