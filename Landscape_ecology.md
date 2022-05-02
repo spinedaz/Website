@@ -5,15 +5,20 @@ Here I want to share the process of my thesis and some useful links for those wh
 
 ### Useful links and resources
 
+#### THE TOOLS
+
+- I used [Gnarly Landscape Utilities](https://circuitscape.org/gnarly-landscape-utilities/) to create my resistance surface. In the webpage you can download the tool and also tutorials provided by circuitscape. However, I will leave here the link to download only the [toolbox](./Tools/Gnarly Landscape Utilities.tbx).
+
+- The one and only [Linkage mapper] (https://linkagemapper.org/). 
+
 #### Know how about corridors
 
 The [Corridor design webpage](http://corridordesign.org/) brings you real study cases about connectivity planning and corridor design.
 
-A very good and concise review about corridor design: [Forks in the road](./Documents/2008_Beier etal_ConsBiol.LinkageDesigns.pdf). I used it to put my ideas in order for the creative process of my thesis. It answered a lot of my questions in just a few pages of reading.
+A very good and concise review about corridor design: [Forks in the road: Choices in Procedures for Designing Wildland Linkages](./Documents/2008_Beier etal_ConsBiol.LinkageDesigns.pdf). I used it to put my ideas in order for the creative process of my thesis. It answered a lot of my questions in just a few pages of reading.
 
-If you are looking for something more ellaborated, they also have this manual: 
+If you are looking for something more ellaborated, they also have this manual: [Conceptual steps for designing corridors](./Documents/ConceptualStepsForDesigningCorridors.pdf)
 
-- 
 
 #### Tutorials
 

@@ -32,7 +32,6 @@ Visit these links for navigation in this webpage
 
 - [The birds I've seen](./Birds_link.md)
 
-
 <!-- - [trial](./whatever.Rmd) -->
 
 - [Landscape ecology resources](./Landscape_ecology.md)
