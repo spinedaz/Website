@@ -7,6 +7,14 @@ Here I want to share the process of my thesis and some useful links for those wh
 
 #### Know how about corridors
 
+The [Corridor design webpage](http://corridordesign.org/) brings you real study cases about connectivity planning and corridor design.
+
+A very good and concise review about corridor design: [Forks in the road](./Documents/2008_Beier etal_ConsBiol.LinkageDesigns.pdf). I used it to put my ideas in order for the creative process of my thesis. It answered a lot of my questions in just a few pages of reading.
+
+If you are looking for something more ellaborated, they also have this manual: 
+
+- 
+
 #### Tutorials
 
 I want to start with Steve Padgett webpage, which was the most useful resource I could have found when I was starting. In the link I share here, there is a linkage mapper tutorial based on Steven's thesis carried out in Costa Rica. Check it out if you want to get a very good first glimpse of linkage mapper.
