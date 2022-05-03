@@ -27,7 +27,8 @@ If you are looking for something more ellaborated, they also have this manual: [
 
 #### Tutorials
 
-I want to start with Steve Padgett webpage, which was the most useful resource I could have found when I was starting. In the link I share here, there is a linkage mapper tutorial based on Steven's thesis carried out in Costa Rica. Check it out if you want to get a very good first glimpse of linkage mapper.
+I want to start with Steve Padgett webpage, which was the most useful resource I could have found when I was starting. Below this text, you can find a linkage mapper tutorial based on Steven's thesis carried out in Costa Rica. Check it out if you want to get a very good first glimpse of linkage mapper. I also share the link to his webpage: [Steve Padgett Webpage](http://www.stevepadgettvasquez.com/ontheweb)
 
-- [Steve Padgett Webpage](http://www.stevepadgettvasquez.com/linkage-mapper-en-cbpc)
+
+[![Steve Padgett Tutorial](./Images/Tutorial_Steve.png)](https://www.youtube.com/watch?v=nnQ73tv4tu4 "Steve Padgett Tutorial")
 
