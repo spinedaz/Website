@@ -33,3 +33,10 @@
 *Todirostrum cinereum*             |  *Piranga rubra*  |  *Coereba flaveola* 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Espatulilla comun](./Images/DSCN0181.JPG)  |  ![Piranga rubra](./Images/DSCN0884.JPG) | ![Mielero comun](./Images/DSCN1406.JPG)
+
+### La Bramadora, Santa Fe de Antioquia
+
+*Colinus cristatus*             |  *Forpus conspicillatus*
+:-------------------------:|:-------------------------:
+![Perdiz comun](./Images/DSCN0631.JPG)  |  ![Forpus](./Images/DSCN0761.JPG)
+

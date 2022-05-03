@@ -2,14 +2,19 @@ Here I want to share the process of my thesis and some useful links for those wh
 
 ### My thesis
 
+- Tutorials
+
+- Unsolved and solved questions
+
+    -
 
 ### Useful links and resources
 
 #### THE TOOLS
 
-- I used [Gnarly Landscape Utilities](https://circuitscape.org/gnarly-landscape-utilities/) to create my resistance surface. In the webpage you can download the tool and also tutorials provided by circuitscape. However, I will leave here the link to download only the [toolbox](./Tools/Gnarly Landscape Utilities.tbx).
+- I used [Gnarly Landscape Utilities](https://circuitscape.org/gnarly-landscape-utilities/) to create my resistance surface. In the webpage you can download the tool and also tutorials provided by circuitscape.
 
-- The one and only [Linkage mapper] (https://linkagemapper.org/). 
+- The one and only [Linkage mapper](https://linkagemapper.org/). 
 
 #### Know how about corridors
 
