@@ -1,12 +1,3 @@
-
-<style>
-.imgContainer {
-  max-width: 30px;
-}
-</style>
-
-<img class="imgContainer" src="./Images/PROF.png">
-
 <img src="./Images/PROF.png" alt="drawing" width="500"/>
 ---
 
