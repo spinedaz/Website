@@ -7,6 +7,7 @@
 
 <img class="imgContainer" src="./Images/PROF.png">
 
+<img src="./Images/PROF.png" alt="drawing" width="20"/>
 ---
 
 **Hello all!**
