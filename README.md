@@ -36,6 +36,10 @@ If you want to contact me, here is my linkedin profile and my email:
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sapine@gmail.com)
 
+Here is also my [C.V](./Documents/Sara_Pineda_Resume.pdf) if you are interested 
+
+
+
 <!-- 
 You can use the [editor on GitHub](https://github.com/spinedaz/Website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

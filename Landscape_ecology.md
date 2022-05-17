@@ -19,7 +19,13 @@ Here I want to share the process of my thesis and some useful links for those wh
 
     First the thread: It is not a secret that deforestation is a big problem in Colombia and the derived fragmentation is endangering the habitats of a miriad of species. There are species more sensitive to this fragmentation, for example those who have very restricted distributions or species with very specific prefered covers.
 
-    This is the case of endangered species listed in the Resolución 1912 de 2017. Although this dosument has hundreds f endangered species, the focus was on mammals, because we wanted to model terrestrial connectivity and because this group is often used in connectivity analysis becuasr they are particularly sensitive to the barrier effect caused by roads, and due to the fact that areas and linkages required by them can be also used by multiple other species and ecological fluxes.
+    This is the case of endangered species listed in the Resolución 1912 de 2017. Although this document has hundreds of endangered species, the focus was on mammals, because we wanted to model terrestrial connectivity and because this group is often used in connectivity analysis because they are particularly sensitive to the barrier effect caused by roads, and due to the fact that areas and linkages required by them can be also used by multiple other species and ecological fluxes (Gurrutxaga et al., 2011).
+
+    Then, we grouped this species into something called **ecological profiles**, which is more or less groups of species that share certain characteristics between each other. For my case each group shares a prefered type of land cover, and also they inhabit similar altitudinal ranges.
+
+    This is still an unsolved question. Although I chose one way to answer it for my thesis, I would like to use an algorithm to prioritize them, which in my knowledge is not done for Colombia. A great example for future research related to this topic is this awesome paper: [Faunal surrogates for forest species conservation: A systematic niche-based approach](https://doi.org/10.1016/j.ecolind.2019.01.084).
+
+    **Further reading on selection of species**
 
 
 
