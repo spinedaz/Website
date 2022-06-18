@@ -9,7 +9,7 @@ Here I want to share the process of my thesis and some useful links for those wh
 
     - **Selection of species**:
 
-    For what species should we prioritize conservation efforts? This is not a trvial question, and researchers and conservation managers have been thinking about it for a while. 
+    For what species should we prioritize conservation efforts? This is not a trivial question, and researchers and conservation managers have been thinking about it for a while. 
 
     This was the first question I encountered. How should I choose the species to carry out a national analysis of connectivity?
 
@@ -47,10 +47,13 @@ A very good and concise review about corridor design: [Forks in the road: Choice
 If you are looking for something more ellaborated, they also have this manual: [Conceptual steps for designing corridors](./Documents/ConceptualStepsForDesigningCorridors.pdf)
 
 
-#### Tutorials
+#### Tutorials and courses
 
-I want to start with Steve Padgett webpage, which was the most useful resource I could have found when I was starting. Below this text, you can find a linkage mapper tutorial based on Steven's thesis carried out in Costa Rica. Check it out if you want to get a very good first glimpse of linkage mapper. I also share the link to his webpage: [Steve Padgett Webpage](http://www.stevepadgettvasquez.com/ontheweb)
+- I want to start with Steve Padgett webpage, which was the most useful resource I could have found when I was starting. Below this text, you can find a linkage mapper tutorial based on Steven's thesis carried out in Costa Rica. Check it out if you want to get a very good first glimpse of linkage mapper. I also share the link to his webpage: [Steve Padgett Webpage](http://www.stevepadgettvasquez.com/ontheweb)
 
 
 [![Steve Padgett Tutorial](./Images/Tutorial_Steve.png)](https://www.youtube.com/watch?v=nnQ73tv4tu4 "Steve Padgett Tutorial")
 
+- An very nice course in landscape ecology for free: [Landscape ecology edx](https://www.edx.org/es/course/landscape-ecology)
+
+- Learning Landscape Ecology is a complete practical guide that compiles concepts and techniques on landscape ecology: In this website you will find all the files to solve the exercises and labs suggested in the book [Learning landscape ecology](http://sarahgergel.net/lel/learning-landscape-ecology/)
